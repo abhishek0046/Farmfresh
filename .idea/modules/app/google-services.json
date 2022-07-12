@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "900207379558",
+    "firebase_url": "https://farm-fresh-74d84.firebaseio.com",
+    "project_id": "farm-fresh-74d84",
+    "storage_bucket": "farm-fresh-74d84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900207379558:android:8d2f7aef7839458ec5d9a7",
+        "android_client_info": {
+          "package_name": "com.example.farmfresh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900207379558-f3tftggsf5e1p1s03t9a1ft5s6q0fnnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.farmfresh",
+            "certificate_hash": "0a844b7102dd5132616868982e87f3255b462754"
+          }
+        },
+        {
+          "client_id": "900207379558-dmv9q8s0kk4qsmhfrcbk0brh4ca32bj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0u2_mr__p_G39pk-5BnOYMZGuKqmqzmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900207379558-dmv9q8s0kk4qsmhfrcbk0brh4ca32bj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
